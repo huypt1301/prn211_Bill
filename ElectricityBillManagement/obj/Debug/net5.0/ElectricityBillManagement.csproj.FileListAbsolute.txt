@@ -1,0 +1,16 @@
+D:\PRN211\Lab\Lab3\ElectricityBillManagement_SOLUTION\ElectricityBillManagement\bin\Debug\net5.0\ElectricityBillManagement.exe
+D:\PRN211\Lab\Lab3\ElectricityBillManagement_SOLUTION\ElectricityBillManagement\bin\Debug\net5.0\ElectricityBillManagement.deps.json
+D:\PRN211\Lab\Lab3\ElectricityBillManagement_SOLUTION\ElectricityBillManagement\bin\Debug\net5.0\ElectricityBillManagement.runtimeconfig.json
+D:\PRN211\Lab\Lab3\ElectricityBillManagement_SOLUTION\ElectricityBillManagement\bin\Debug\net5.0\ElectricityBillManagement.runtimeconfig.dev.json
+D:\PRN211\Lab\Lab3\ElectricityBillManagement_SOLUTION\ElectricityBillManagement\bin\Debug\net5.0\ElectricityBillManagement.dll
+D:\PRN211\Lab\Lab3\ElectricityBillManagement_SOLUTION\ElectricityBillManagement\bin\Debug\net5.0\ElectricityBillManagement.pdb
+D:\PRN211\Lab\Lab3\ElectricityBillManagement_SOLUTION\ElectricityBillManagement\obj\Debug\net5.0\ElectricityBillManagement.csproj.AssemblyReference.cache
+D:\PRN211\Lab\Lab3\ElectricityBillManagement_SOLUTION\ElectricityBillManagement\obj\Debug\net5.0\ElectricityBillManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Lab\Lab3\ElectricityBillManagement_SOLUTION\ElectricityBillManagement\obj\Debug\net5.0\ElectricityBillManagement.AssemblyInfoInputs.cache
+D:\PRN211\Lab\Lab3\ElectricityBillManagement_SOLUTION\ElectricityBillManagement\obj\Debug\net5.0\ElectricityBillManagement.AssemblyInfo.cs
+D:\PRN211\Lab\Lab3\ElectricityBillManagement_SOLUTION\ElectricityBillManagement\obj\Debug\net5.0\ElectricityBillManagement.csproj.CoreCompileInputs.cache
+D:\PRN211\Lab\Lab3\ElectricityBillManagement_SOLUTION\ElectricityBillManagement\obj\Debug\net5.0\ElectricityBillManagement.dll
+D:\PRN211\Lab\Lab3\ElectricityBillManagement_SOLUTION\ElectricityBillManagement\obj\Debug\net5.0\refint\ElectricityBillManagement.dll
+D:\PRN211\Lab\Lab3\ElectricityBillManagement_SOLUTION\ElectricityBillManagement\obj\Debug\net5.0\ElectricityBillManagement.pdb
+D:\PRN211\Lab\Lab3\ElectricityBillManagement_SOLUTION\ElectricityBillManagement\obj\Debug\net5.0\ElectricityBillManagement.genruntimeconfig.cache
+D:\PRN211\Lab\Lab3\ElectricityBillManagement_SOLUTION\ElectricityBillManagement\obj\Debug\net5.0\ref\ElectricityBillManagement.dll
